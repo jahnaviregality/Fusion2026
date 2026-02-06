@@ -1,0 +1,7 @@
+{
+  "name": "FUSION 2K26 - Techno-Cultural Fest",
+  "description": "The official website for FUSION 2K26, the Techno-Cultural Fest of Aditya College of Engineering, Madanapalle (Autonomous). Integrating modern technology with traditional culture.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
